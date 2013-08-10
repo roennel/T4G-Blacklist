@@ -1,0 +1,95 @@
+body {
+  font-size: 10.5pt;
+}
+
+div#container {
+  width: auto;
+  max-width: 1024px;
+}
+
+table.submissionTable > tbody > tr > td {
+  display: block;
+}
+
+table.submissionTable > tbody > tr > td:first-child {
+  font-weight: bold;
+}
+
+table.submissionTable > tbody > tr > td + td {
+  padding-left: 20px;
+}
+
+table.submissionLinks td, table.submissionLinks th {
+  padding: 6px 8px !important;
+}
+
+table.modVotes td {
+  width: auto !important;
+}
+
+table.modVotes td:first-child {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 20pt;
+}
+
+h2 {
+  font-size: 15pt;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 11pt;
+  margin-bottom: 8px;
+}
+
+div.nav {
+  margin-top: 2px;
+  height: 29px;
+  clear: both;
+}
+
+div.nav div.nav-items > div {  
+  height: 16px;
+  padding: 12px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+
+div.nav div.nav-inner {
+  position: relative;
+  float: right;
+  left: -50%;
+}
+
+div.nav div.nav-inner .nav-items {
+  position: relative;
+  left: 50%;
+}
+
+div.logo {
+  width: 100%;
+  height: 55px;
+  background: #111 url(/img/t4g-blacklist_logo-6.png) no-repeat center;
+  margin-left: 0;
+  margin-top: 0;
+  padding: 15px 0;
+  border-bottom: 1px solid #000;
+}
+
+div.buttons-wrap {
+  text-align: center;
+}
+
+div.buttons input[type="button"] {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+div.buttons {
+  width: 100%;
+  float: none !important;
+}

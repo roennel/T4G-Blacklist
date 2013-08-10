@@ -1,0 +1,26 @@
+<div class="sub extended" style="">
+
+  <a href="http://honey-badgers.com" target="_blank"><img src="/img/logos/hb.png" class="allianceLogo" /></a>
+  
+  <a href="http://l3git.com" target="_blank"><img src="/img/logos/l3.png" class="allianceLogo" /></a>
+
+  
+  <a href="http://oldguys.eu" target="_blank"><img src="/img/logos/og.png" class="allianceLogo" /></a>
+
+  <a href="http://www.13thmeu.net" target="_blank"><img src="/img/logos/13th.png" class="allianceLogo" /></a>
+
+  <a href="http://g-bf.com"><img class="allianceLogo" style="clear: left" src="http://bundeswehrclan.de/include/images/usergallery/img_163.png" /></a>
+  
+  <a href="http://evclan.us"><img class="allianceLogo" src="/img/logos/ev.png" /></a>
+  
+  
+</div>
+
+<style type="text/css">
+img.allianceLogo
+{
+  width: 250px;
+  margin: 20px;
+  float: left;
+}
+</style>
