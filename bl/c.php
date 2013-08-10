@@ -1,5 +1,7 @@
 <?php
 
+// test
+
 $d = <<<EOT
     WEAPON_AR_F2000 : WeaponTemplate( WEAPON_AR_F2000, 3114, 'ar_f2000', WEAPON_TYPE_GRENADE), 
     WEAPON_SG_SPAS_12_DEFAULT : WeaponTemplate( WEAPON_SG_SPAS_12_DEFAULT, 3008, 'sg_spas_12_default', WEAPON_TYPE_SHOTGUN), 
